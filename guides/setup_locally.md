@@ -12,12 +12,12 @@ Setting up the **Solana Agent Kit** on your local machine involves cloning the r
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/solana-agent-kit.git
+   git clone https://github.com/yourusername/solana-ai-agents.git
    ```
 
 2. **Navigate to the Project Directory**
    ```bash
-   cd solana-agent-kit
+   cd solana-ai-agents
    ```
 
 3. **Install Dependencies**

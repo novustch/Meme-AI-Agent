@@ -2,7 +2,7 @@ import { gpt4o } from "../utils/model";
 import { agentKit } from "../utils/solanaAgent";
 import { solanaAgentState } from "../utils/state";
 import { createReactAgent } from "@langchain/langgraph/prebuilt";
-import { SolanaTransferTool } from "solana-agent-kit/dist/langchain";
+import { SolanaTransferTool } from "solana-ai-agents/dist/langchain";
 import { transferSwapPrompt } from "../prompts/transferSwap";
 import { swapTool } from "../tools/swap";
 

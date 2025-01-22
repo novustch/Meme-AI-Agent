@@ -8,6 +8,6 @@
   },
   "dependencies": {
     "@langchain/langgraph-checkpoint-postgres": "^0.0.2",
-    "solana-agent-kit": "^1.3.6"
+    "solana-ai-agents": "^1.3.6"
   }
 }

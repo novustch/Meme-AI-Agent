@@ -1,7 +1,7 @@
 # SolanaAgentKit 🦜️🔗 LangChain + Next.js Starter Template
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/michaelessiet/solana-agent-nextjs-starter-langchain)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsendaifun%2Fsolana-agent-kit%2Ftree%2Fmain%2Fexamples%2Fagent-kit-nextjs-langchain&env=OPENAI_API_KEY,RPC_URL,SOLANA_PRIVATE_KEY&project-name=solana-agent-kit&repository-name=sak-yourprojectname)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fearthzetaorg%2Fsolana-ai-agents%2Ftree%2Fmain%2Fexamples%2Fagent-kit-nextjs-langchain&env=OPENAI_API_KEY,RPC_URL,SOLANA_PRIVATE_KEY&project-name=solana-ai-agents&repository-name=sak-yourprojectname)
 
 This template scaffolds a SolanaAgentKit + LangChain.js + Next.js starter app.
 
@@ -42,7 +42,7 @@ Backend logic lives in `app/api/chat/route.ts`. From here, you can change the pr
 
 To learn more about what you can do with SolanaAgentKit and LangChain.js, check out the docs here:
 
-- https://github.com/sendaifun/solana-agent-kit
+- https://github.com/earthzetaorg/solana-ai-agents
 - https://js.langchain.com/docs/
 
 ## ▲ Deploy on Vercel
@@ -53,4 +53,4 @@ Check out the [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Thank You!
 
-Thanks for reading! If you have any questions or comments, please drop an issue on this repo or reach out to us on [X](https://x.com/sendaifun)
+Thanks for reading! If you have any questions or comments, please drop an issue on this repo or reach out to us on [X](https://x.com/earthzetaorg)

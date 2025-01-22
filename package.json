@@ -1,5 +1,5 @@
 {
-  "name": "solana-agent-kit",
+  "name": "solana-ai-agents",
   "version": "1.4.3",
   "description": "connect any ai agents to solana protocols",
   "main": "dist/index.js",
@@ -20,7 +20,7 @@
     "pnpm": ">=8.0.0"
   },
   "keywords": ["solana", "agent", "ai", "solana agent kit", "sendai"],
-  "author": "sendaifun",
+  "author": "earthzetaorg",
   "license": "Apache-2.0",
   "dependencies": {
     "@3land/listings-sdk": "^0.0.6",

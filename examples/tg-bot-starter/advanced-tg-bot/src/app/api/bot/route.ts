@@ -3,7 +3,7 @@ export const fetchCache = 'force-no-store';
 export const maxDuration = 60; // can use 300 with vercel premium
 
 import { Bot, webhookCallback } from 'grammy';
-import { SolanaAgentKit, createSolanaTools } from "solana-agent-kit";
+import { SolanaAgentKit, createSolanaTools } from "solana-ai-agents";
 import { ChatOpenAI } from "@langchain/openai";
 import { createReactAgent } from "@langchain/langgraph/prebuilt";
 import { HumanMessage } from "@langchain/core/messages";

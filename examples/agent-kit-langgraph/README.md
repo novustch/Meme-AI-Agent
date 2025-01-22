@@ -75,7 +75,7 @@ The example demonstrates a workflow where:
   - Includes Tavily search integration for enhanced query responses
 - `@langchain/core`: Core LangChain functionality
 - `@langchain/langgraph`: Graph-based agent workflows
-- `solana-agent-kit`: Solana Agent Kit for blockchain interactions
+- `solana-ai-agents`: Solana Agent Kit for blockchain interactions
 - `zod`: Runtime type checking
 
 ## Contributing

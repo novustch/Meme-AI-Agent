@@ -49,7 +49,7 @@ The project includes a test script located at `test/index.ts`. To execute the te
 
 ### Token Deployment
 ```typescript
-import { SolanaAgentKit } from "solana-agent-kit";
+import { SolanaAgentKit } from "solana-ai-agents";
 
 const agent = new SolanaAgentKit("your_private_key");
 
@@ -62,7 +62,7 @@ console.log("Token Mint Address:", result.mint.toString());
 
 ### NFT Collection Creation
 ```typescript
-import { SolanaAgentKit } from "solana-agent-kit";
+import { SolanaAgentKit } from "solana-ai-agents";
 
 const agent = new SolanaAgentKit("your_private_key");
 

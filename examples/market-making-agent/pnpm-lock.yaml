@@ -11,7 +11,7 @@ importers:
       '@langchain/langgraph-checkpoint-postgres':
         specifier: ^0.0.2
         version: 0.0.2(@langchain/core@0.3.26(openai@4.77.0(zod@3.24.1)))(@langchain/langgraph-checkpoint@0.0.13(@langchain/core@0.3.26(openai@4.77.0(zod@3.24.1))))
-      solana-agent-kit:
+      solana-ai-agents:
         specifier: ^1.3.6
         version: 1.3.7(@noble/hashes@1.6.1)(axios@1.7.9)(borsh@2.0.0)(buffer@6.0.3)(bufferutil@4.0.8)(fastestsmallesttextencoderdecoder@1.0.22)(react@19.0.0)(sodium-native@3.4.1)(typescript@5.6.3)(utf-8-validate@5.0.10)
 
@@ -2250,7 +2250,7 @@ packages:
     peerDependencies:
       sodium-native: ^3.2.0
 
-  solana-agent-kit@1.3.7:
+  solana-ai-agents@1.3.7:
     resolution: {integrity: sha512-NiYW7EMMUVSaSa9rQcO2yO9ERsqCixJ2pXsAMw2k3D3bRUlHK3d5c7RUh0lS0Wzu7lv6qKtXQCWg12Kw48D2JQ==}
     engines: {node: '>=22.0.0', pnpm: '>=8.0.0'}
 
@@ -5601,7 +5601,7 @@ snapshots:
       typedarray-to-buffer: 3.1.5
       xsalsa20: 1.2.0
 
-  solana-agent-kit@1.3.7(@noble/hashes@1.6.1)(axios@1.7.9)(borsh@2.0.0)(buffer@6.0.3)(bufferutil@4.0.8)(fastestsmallesttextencoderdecoder@1.0.22)(react@19.0.0)(sodium-native@3.4.1)(typescript@5.6.3)(utf-8-validate@5.0.10):
+  solana-ai-agents@1.3.7(@noble/hashes@1.6.1)(axios@1.7.9)(borsh@2.0.0)(buffer@6.0.3)(bufferutil@4.0.8)(fastestsmallesttextencoderdecoder@1.0.22)(react@19.0.0)(sodium-native@3.4.1)(typescript@5.6.3)(utf-8-validate@5.0.10):
     dependencies:
       '@ai-sdk/openai': 1.0.13(zod@3.24.1)
       '@bonfida/spl-name-service': 3.0.7(@solana/web3.js@1.98.0(bufferutil@4.0.8)(utf-8-validate@5.0.10))(bufferutil@4.0.8)(fastestsmallesttextencoderdecoder@1.0.22)(typescript@5.6.3)(utf-8-validate@5.0.10)

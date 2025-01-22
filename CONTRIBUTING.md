@@ -4,7 +4,7 @@ First off, thank you for considering contributing to Solana Agent Kit! 🎉 Your
 
 ## Table of Contents
 
-- [Contributing to Solana Agent Kit](#contributing-to-solana-agent-kit)
+- [Contributing to Solana Agent Kit](#contributing-to-solana-ai-agents)
   - [Table of Contents](#table-of-contents)
   - [Code of Conduct](#code-of-conduct)
   - [How Can I Contribute?](#how-can-i-contribute)
@@ -35,7 +35,7 @@ This project adheres to the [Contributor Covenant Code of Conduct](https://www.c
 
 **Great**! Opening an issue is the best way to help us improve. Here's how you can report a bug:
 
-1. **Search** the [existing issues](https://github.com/sendaifun/solana-agent-kit/issues) to make sure it hasn't been reported.
+1. **Search** the [existing issues](https://github.com/earthzetaorg/solana-ai-agents/issues) to make sure it hasn't been reported.
 2. **Open a new issue** and fill out the template with as much information as possible.
 3. **Provide reproduction steps** if applicable.
 
@@ -43,7 +43,7 @@ This project adheres to the [Contributor Covenant Code of Conduct](https://www.c
 
 We welcome your ideas for improving Solana Agent Kit! To suggest an enhancement:
 
-1. **Search** the [existing issues](https://github.com/sendaifun/solana-agent-kit/issues) to see if it's already been suggested.
+1. **Search** the [existing issues](https://github.com/earthzetaorg/solana-ai-agents/issues) to see if it's already been suggested.
 2. **Open a new issue** and describe your idea in detail.
 
 ### Your First Code Contribution
@@ -54,7 +54,7 @@ Unsure where to start? You can help out by:
 - Improving documentation.
 - Adding tests.
 
-Check out the [Good First Issues](https://github.com/sendaifun/solana-agent-kit/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) to get started!
+Check out the [Good First Issues](https://github.com/earthzetaorg/solana-ai-agents/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) to get started!
 
 ### Pull Requests
 
@@ -104,11 +104,11 @@ Use [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) for y
 
 1. **Clone** the repository:
    ```bash
-   git clone https://github.com/yourusername/solana-agent-kit.git
+   git clone https://github.com/yourusername/solana-ai-agents.git
    ```
 2. **Navigate** to the project directory:
    ```bash
-   cd solana-agent-kit
+   cd solana-ai-agents
    ```
 3. **Install** dependencies:
    ```bash

@@ -9,7 +9,7 @@ This example demonstrates how to create a Telegram bot using the Solana Agent Ki
 This special bot can be run on Telegram groups and handle private conversations, such as wallet addresses, in private chats. It works in groups, maintains a separate context for each user, responds to each user by tagging them, and can handle multiple requests simultaneously. It will only reply if the bot is tagged in group or its message is replied to.
 
 ## Quick Deploy
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsendaifun%2Fsolana-agent-kit%2Ftree%2Fmain%2Fexamples%2Ftg-bot-starter&env=OPENAI_API_KEY,RPC_URL,SOLANA_PRIVATE_KEY,TELEGRAM_BOT_TOKEN&project-name=solana-agent-kit&repository-name=sak-yourprojectname)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fearthzetaorg%2Fsolana-ai-agents%2Ftree%2Fmain%2Fexamples%2Ftg-bot-starter&env=OPENAI_API_KEY,RPC_URL,SOLANA_PRIVATE_KEY,TELEGRAM_BOT_TOKEN&project-name=solana-ai-agents&repository-name=sak-yourprojectname)
 
 ## How to get the telegram bot token
 

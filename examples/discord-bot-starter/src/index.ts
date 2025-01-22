@@ -4,7 +4,7 @@ import { HumanMessage } from '@langchain/core/messages';
 import { MemorySaver } from '@langchain/langgraph';
 import { createReactAgent } from '@langchain/langgraph/prebuilt';
 import { ChatOpenAI } from '@langchain/openai';
-import { SolanaAgentKit, createSolanaTools } from 'solana-agent-kit';
+import { SolanaAgentKit, createSolanaTools } from 'solana-ai-agents';
 
 const client = new Client({
   intents: [GatewayIntentBits.MessageContent, GatewayIntentBits.DirectMessages],

@@ -6,8 +6,8 @@ message: >-
 type: software
 authors:
   - name: SendAI
-repository-code: 'https://github.com/sendaifun/solana-agent-kit'
-url: 'https://github.com/sendaifun/solana-agent-kit'
+repository-code: 'https://github.com/earthzetaorg/solana-ai-agents'
+url: 'https://github.com/earthzetaorg/solana-ai-agents'
 abstract: >-
   Connect any AI Agents to Solana Protocols
 keywords:
@@ -25,7 +25,7 @@ preferred-citation:
   version: 1.2.0
   date-released: '2024-12-21'
   license: Apache-2.0
-  url: 'https://github.com/sendaifun/solana-agent-kit'
-  repository-code: 'https://github.com/sendaifun/solana-agent-kit'
+  url: 'https://github.com/earthzetaorg/solana-ai-agents'
+  repository-code: 'https://github.com/earthzetaorg/solana-ai-agents'
   authors:
   - name: SendAI

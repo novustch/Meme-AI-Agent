@@ -3,7 +3,7 @@
 This example demonstrates how to create a Telegram bot using the Solana Agent Kit by Send AI. It includes advanced features such as storing chat history for each user in a PostgreSQL database, maintaining a unique wallet for each user in a Firebase database, and managing the state of multiple users simultaneously, each with their own unique wallet.
 
 ## Quick Deploy
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsendaifun%2Fsolana-agent-kit%2Ftree%2Fmain%2Fexamples%2Ftg-bot-starter&env=OPENAI_API_KEY,RPC_URL,SOLANA_PRIVATE_KEY,TELEGRAM_BOT_TOKEN&project-name=solana-agent-kit&repository-name=sak-yourprojectname)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fearthzetaorg%2Fsolana-ai-agents%2Ftree%2Fmain%2Fexamples%2Ftg-bot-starter&env=OPENAI_API_KEY,RPC_URL,SOLANA_PRIVATE_KEY,TELEGRAM_BOT_TOKEN&project-name=solana-ai-agents&repository-name=sak-yourprojectname)
 
 ## How to get the telegram bot token
 

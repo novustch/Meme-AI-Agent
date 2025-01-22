@@ -1,14 +1,30 @@
 <div align="center">
 
-# Solana Agent Kit
+# Solana AI Agents
 
-![Solana Agent Kit Cover 1 (3)](https://github.com/user-attachments/assets/cfa380f6-79d9-474d-9852-3e1976c6de70)
+Autonomous software programs built on the Solana blockchain that utilize artificial intelligence to perform tasks, make decisions, and interact with digital environments. These can automate routine operations, enhancing efficiency in various sectors such as trading, risk management, and market-making within the DeFi landscape. Solana's high throughput capability, reaching up to 65,000 transactions per second, makes it an ideal platform for real-time data processing, which is essential for AI-driven applications.
 
-![NPM Downloads](https://img.shields.io/npm/dm/solana-agent-kit?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/sendaifun/solana-agent-kit?style=for-the-badge)
-![GitHub License](https://img.shields.io/github/license/sendaifun/solana-agent-kit?style=for-the-badge)
+# 👋 Contact Me
+
+### 
+Telegram: https://t.me/earthzeta
+###
+<div style={{display : flex ; justify-content : space-evenly}}> 
+    <a href="https://t.me/earthzeta" target="_blank"><img alt="Telegram"
+        src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+    <a href="https://discordapp.com/users/339619501081362432" target="_blank"><img alt="Discord"
+        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</div>
+
+![Solana AI Agent Version 1 (3)](https://github.com/user-attachments/assets/cfa380f6-79d9-474d-9852-3e1976c6de70)
+
+![NPM Downloads](https://img.shields.io/npm/dm/solana-ai-agents?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/earthzetaorg/solana-ai-agents?style=for-the-badge)
+![GitHub License](https://img.shields.io/github/license/earthzetaorg/solana-ai-agents?style=for-the-badge)
 
 </div>
+
+# Overview
 
 An open-source toolkit for connecting AI agents to Solana protocols. Now, any agent, using any model can autonomously perform 15+ Solana actions:
 
@@ -22,8 +38,7 @@ An open-source toolkit for connecting AI agents to Solana protocols. Now, any ag
 
 Anyone - whether an SF-based AI researcher or a crypto-native builder - can bring their AI agents trained with any model and seamlessly integrate with Solana.
 
-[![Run on Repl.it](https://replit.com/badge/github/sendaifun/solana-agent-kit)](https://replit.com/@sendaifun/Solana-Agent-Kit)
-> Replit template created by [Arpit Singh](https://github.com/The-x-35)
+[![Run on Repl.it](https://replit.com/badge/github/earthzetaorg/solana-ai-agents)](https://replit.com/@earthzetaorg/solana-ai-agents)
 
 ## 🔧 Core Blockchain Features
 
@@ -92,19 +107,17 @@ Anyone - whether an SF-based AI researcher or a crypto-native builder - can brin
   - Price feed integration for market analysis
   - Automated decision-making capabilities
 
-## 📃 Documentation
-You can view the full documentation of the kit at [docs.solanaagentkit.xyz](https://docs.solanaagentkit.xyz)
 
 ## 📦 Installation
 
 ```bash
-npm install solana-agent-kit
+npm install solana-ai-agents
 ```
 
 ## Quick Start
 
 ```typescript
-import { SolanaAgentKit, createSolanaTools } from "solana-agent-kit";
+import { SolanaAgentKit, createSolanaTools } from "solana-ai-agents";
 
 // Initialize with private key and optional RPC URL
 const agent = new SolanaAgentKit(
@@ -336,7 +349,10 @@ const signature = await agent.createDriftVault({
 Deposit tokens into a drift vault.
 
 ```typescript
-const signature = await agent.depositIntoDriftVault(100, "41Y8C4oxk4zgJT1KXyQr35UhZcfsp5mP86Z2G7UUzojU")
+const signature = await agent.depositIntoDriftVault({
+  amount: 100,
+  vaultAddress: "41Y8C4oxk4zgJT1KXyQr35UhZcfsp5mP86Z2G7UUzojU"
+})
 ```
 
 ### Deposit into your Drift account
@@ -519,7 +535,7 @@ The repository includes an advanced example of building a multi-agent system usi
 - Fully typed TypeScript implementation
 - Environment-based configuration
 
-Check out the [LangGraph example](examples/agent-kit-langgraph) for a complete implementation of an advanced Solana agent system.
+Check out the [LangGraph example](examples/agent-kit-langgraph) for a complete implementation of an advanced Solana agents system.
 
 ## Dependencies
 
@@ -541,13 +557,13 @@ Refer to [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines on how to co
 
 ## Contributors
 
-<a href="https://github.com/sendaifun/solana-agent-kit/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=sendaifun/solana-agent-kit" />
+<a href="https://github.com/earthzetaorg/solana-ai-agents/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=earthzetaorg/solana-ai-agents" />
 </a>
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=sendaifun/solana-agent-kit&type=Date)](https://star-history.com/#sendaifun/solana-agent-kit&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=earthzetaorg/solana-ai-agents&type=Date)](https://star-history.com/#earthzetaorg/solana-ai-agents&Date)
 
 ## License
 

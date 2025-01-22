@@ -137,7 +137,7 @@ export const ACTIONS = {
 Add a code example in the `README.md` file.
 
 ```typescript
-import { SolanaAgentKit, createSolanaTools } from "solana-agent-kit";
+import { SolanaAgentKit, createSolanaTools } from "solana-ai-agents";
 
 const agent = new SolanaAgentKit(
   "your-wallet-private-key-as-base58",
@@ -262,7 +262,7 @@ const fetchTokenPriceAction: Action = {
 Then it can be used as such:
 
 ```typescript
-import { SolanaAgentKit } from "solana-agent-kit";
+import { SolanaAgentKit } from "solana-ai-agents";
 
 const agent = new SolanaAgentKit(
   "your-wallet-private-key-as-base58",
