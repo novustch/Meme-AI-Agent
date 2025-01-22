@@ -4,6 +4,8 @@
 
 Autonomous software programs built on the Solana blockchain that utilize artificial intelligence to perform tasks, make decisions, and interact with digital environments. These can automate routine operations, enhancing efficiency in various sectors such as trading, risk management, and market-making within the DeFi landscape. Solana's high throughput capability, reaching up to 65,000 transactions per second, makes it an ideal platform for real-time data processing, which is essential for AI-driven applications.
 
+![Solana AI Agent Version 1 (3)](https://github.com/user-attachments/assets/cfa380f6-79d9-474d-9852-3e1976c6de70)
+
 # 👋 Contact Me
 
 ### 
@@ -15,12 +17,6 @@ Telegram: https://t.me/earthzeta
     <a href="https://discordapp.com/users/339619501081362432" target="_blank"><img alt="Discord"
         src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </div>
-
-![Solana AI Agent Version 1 (3)](https://github.com/user-attachments/assets/cfa380f6-79d9-474d-9852-3e1976c6de70)
-
-![NPM Downloads](https://img.shields.io/npm/dm/solana-ai-agents?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/earthzetaorg/solana-ai-agents?style=for-the-badge)
-![GitHub License](https://img.shields.io/github/license/earthzetaorg/solana-ai-agents?style=for-the-badge)
 
 </div>
 
