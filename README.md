@@ -129,10 +129,10 @@ npm install solana-ai-agents
 ## Quick Start
 
 ```typescript
-import { SolanaAgentKit, createSolanaTools } from "solana-ai-agents";
+import { JLBAIAgent, createSolanaTools } from "solana-ai-agents";
 
 // Initialize with private key and optional RPC URL
-const agent = new SolanaAgentKit(
+const agent = new JLBAIAgent(
   "your-wallet-private-key-as-base58",
   "https://api.mainnet-beta.solana.com",
   "your-openai-api-key"
@@ -260,7 +260,7 @@ Apache-2 License
 
 ## Funding
 
-If you wanna give back any tokens or donations to the OSS community -- The Public Solana Agent Kit Treasury Address:
+If you wanna give back any tokens or donations to the OSS community -- The Public JLB AI Agents Treasury Address:
 
 ## Security
 
