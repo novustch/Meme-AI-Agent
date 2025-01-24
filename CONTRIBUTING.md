@@ -1,10 +1,10 @@
-# Contributing to Solana Agent Kit
+# Contributing to JLB AI Agent
 
-First off, thank you for considering contributing to Solana Agent Kit! 🎉 Your contributions are **greatly appreciated**.
+First off, thank you for considering contributing to JLB AI Agent! 🎉 Your contributions are **greatly appreciated**.
 
 ## Table of Contents
 
-- [Contributing to Solana Agent Kit](#contributing-to-solana-ai-agents)
+- [Contributing to JLB AI Agent](#contributing-to-solana-ai-agents)
   - [Table of Contents](#table-of-contents)
   - [Code of Conduct](#code-of-conduct)
   - [How Can I Contribute?](#how-can-i-contribute)
@@ -41,7 +41,7 @@ This project adheres to the [Contributor Covenant Code of Conduct](https://www.c
 
 ### Suggesting Enhancements
 
-We welcome your ideas for improving Solana Agent Kit! To suggest an enhancement:
+We welcome your ideas for improving JLB AI Agent! To suggest an enhancement:
 
 1. **Search** the [existing issues](https://github.com/earthzetaorg/solana-ai-agents/issues) to see if it's already been suggested.
 2. **Open a new issue** and describe your idea in detail.
