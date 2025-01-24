@@ -170,79 +170,41 @@ When creating an NFT using 3Land's tool, it automatically goes for sale on 3.lan
 
 - Create a Drift account
 
-Create a drift account with an initial token deposit.
-
 - Create a Drift Vault
-
-Create a drift vault.
 
 - Deposit into a Drift Vault
 
-Deposit tokens into a drift vault.
-
 - Deposit into your Drift account
-
-Deposit tokens into your drift account.
 
 - Derive a Drift Vault address
 
-Derive a drift vault address.
-
 - Do you have a Drift account
-
-Check if agent has a drift account.
 
 - Get Drift account information
 
-Get drift account information.
-
 - Request withdrawal from Drift vault
-
-Request withdrawal from drift vault.
 
 - Carry out a perpetual trade using a Drift vault
 
-Open a perpertual trade using a drift vault that is delegated to you.
-
 - Carry out a perpetual trade using your Drift account
-
-Open a perpertual trade using your drift account.
 
 - Update Drift vault parameters
 
-Update drift vault parameters.
-
 - Withdraw from Drift account
-
-Withdraw tokens from your drift account.
 
 - Borrow from Drift
 
-Borrow tokens from drift.
-
 - Repay Drift loan
-
-Repay a loan from drift.
 
 - Withdraw from Drift vault
 
-Withdraw tokens from a drift vault after the redemption period has elapsed.
-
 - Update the address a Drift vault is delegated to
-
-Update the address a drift vault is delegated to.
 
 - Get Voltr Vault Position Values
 
-Get the current position values and total value of assets in a Voltr vault.
-
 - Deposit into Voltr Strategy
 
-Deposit assets into a specific strategy within a Voltr vault.
-
 - Withdraw from Voltr Strategy
-
-Withdraw assets from a specific strategy within a Voltr vault.
 
 - Get a Solana asset by its ID
 
