@@ -2,7 +2,7 @@
 
 # JLB AI Agents
 
-Autonomous software programs built on the Solana blockchain that utilize artificial intelligence to perform tasks, make decisions, and interact with digital environments. These can automate routine operations, enhancing efficiency in various sectors such as trading, risk management, and market-making within the DeFi landscape. Solana's high throughput capability, reaching up to 65,000 transactions per second, makes it an ideal platform for real-time data processing, which is essential for AI-driven applications.
+Introducing the JLB AI Agent, an innovative solution built on the Solana blockchain that harnesses the power of artificial intelligence to revolutionize digital interactions. Designed to automate complex tasks and optimize decision-making, JLB empowers users with real-time analytics and efficient operations in the DeFi space. With its ability to learn and adapt, JLB aims to provide seamless integration and meaningful insights for both newcomers and experienced crypto enthusiasts. Experience the future of autonomous technology with JLB, where AI meets the dynamic landscape of blockchain.
 
 ![Banner](https://github.com/user-attachments/assets/eb4e8d93-35dd-40b4-9d43-959ab1fdbb04)
 
@@ -21,9 +21,6 @@ Telegram: https://t.me/earthzeta
 </div>
 
 # Overview
-
-## ✔️ Introduction
-Introducing the JLB AI Agent, an innovative solution built on the Solana blockchain that harnesses the power of artificial intelligence to revolutionize digital interactions. Designed to automate complex tasks and optimize decision-making, JLB empowers users with real-time analytics and efficient operations in the DeFi space. With its ability to learn and adapt, JLB aims to provide seamless integration and meaningful insights for both newcomers and experienced crypto enthusiasts. Experience the future of autonomous technology with JLB, where AI meets the dynamic landscape of blockchain.
 
 An open-source toolkit for connecting AI agents to Solana protocols. Now, any agent, using any model can autonomously perform 15+ Solana actions:
 
