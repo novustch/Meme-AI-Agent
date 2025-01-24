@@ -4,7 +4,6 @@
 
 Autonomous software programs built on the Solana blockchain that utilize artificial intelligence to perform tasks, make decisions, and interact with digital environments. These can automate routine operations, enhancing efficiency in various sectors such as trading, risk management, and market-making within the DeFi landscape. Solana's high throughput capability, reaching up to 65,000 transactions per second, makes it an ideal platform for real-time data processing, which is essential for AI-driven applications.
 
-![Solana AI Agent Vers![Banner](https://github.com/user-attachments/assets/bbbb16ed-39fd-4075-8056-4c36b0a2437d)
 ![Banner](https://github.com/user-attachments/assets/eb4e8d93-35dd-40b4-9d43-959ab1fdbb04)
 
 # 👋 Contact Me
