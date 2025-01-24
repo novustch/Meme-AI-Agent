@@ -1,6 +1,7 @@
 <div align="center">
 
-![Banner](https://github.com/user-attachments/assets/eb4e8d93-35dd-40b4-9d43-959ab1fdbb04)
+![Banner](https://github.com/user-attachments/assets/a9599b15-44d2-48a9-ad8c-6bcff68970f6)
+
 
 # JLB AI Agents
 
