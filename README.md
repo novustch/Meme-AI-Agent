@@ -11,7 +11,7 @@ Introducing the JLB AI Agent, an innovative solution built on the Solana blockch
 
 # Overview
 
-An JLB AI Agent for connecting AI agents to Solana protocols. Now, any agent, using any model can autonomously perform 15+ Solana actions:
+The JLB AI Agent for connecting AI agents to Solana protocols.
 
 1. **Blockchain Agent Chat Terminal**
    - Real-time Streaming Implementation
