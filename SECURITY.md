@@ -4,11 +4,6 @@
 
 We take the security of our software seriously. If you believe you have found a security vulnerability, please report it to us following these guidelines:
 
-### Reporting Process
-
-1. **DO NOT** create a public GitHub issue for the vulnerability
-2. Email your findings to:
-
 ### What to Include
 
 Please include the following information in your report:
