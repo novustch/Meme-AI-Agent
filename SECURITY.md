@@ -8,8 +8,6 @@ We take the security of our software seriously. If you believe you have found a 
 
 1. **DO NOT** create a public GitHub issue for the vulnerability
 2. Email your findings to:
-   - Primary: aryan@sendai.fun
-   - Secondary: dev@sendai.fun
 
 ### What to Include
 
