@@ -11,7 +11,7 @@ Introducing the JLB AI Agent, an innovative solution built on the Solana blockch
 
 # Overview
 
-An open-source toolkit for connecting AI agents to Solana protocols. Now, any agent, using any model can autonomously perform 15+ Solana actions:
+An JLB AI Agent for connecting AI agents to Solana protocols. Now, any agent, using any model can autonomously perform 15+ Solana actions:
 
 1. **Blockchain Agent Chat Terminal**
    - Real-time Streaming Implementation
@@ -213,7 +213,7 @@ When creating an NFT using 3Land's tool, it automatically goes for sale on 3.lan
 
 ### LangGraph Multi-Agent System
 
-The repository includes an advanced example of building a multi-agent system using LangGraph and Solana Agent Kit. Located in `examples/agent-kit-langgraph`, this example demonstrates:
+The repository includes an advanced example of building a multi-agent system using LangGraph and JLB AI Agent. Located in `examples/agent-kit-langgraph`, this example demonstrates:
 
 - Multi-agent architecture using LangGraph's StateGraph
 - Specialized agents for different tasks:
