@@ -27,7 +27,7 @@ First off, thank you for considering contributing to JLB AI Agent! 🎉 Your con
 
 ## Code of Conduct
 
-This project adheres to the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/). By participating, you are expected to uphold this code. Please report unacceptable behavior to [aryan@sendai.fun](mailto:aryan@sendai.fun).
+This project adheres to the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/). By participating, you are expected to uphold this code. Please report unacceptable behavior to [TQ Ventures](https://x.com/JLB_company).
 
 ## How Can I Contribute?
 
@@ -145,7 +145,7 @@ The documentation will be available in the `docs/` directory.
 
 This toolkit handles sensitive information such as private keys and API keys. **Ensure you never commit `.env` files or any sensitive data**. Review the `.gitignore` to confirm that sensitive files are excluded.
 
-For security vulnerabilities, please follow the [responsible disclosure](mailto:aryan@sendai.fun) process.
+For security vulnerabilities, please follow the [TQ Ventures](https://x.com/JLB_company) process.
 
 ## License
 
