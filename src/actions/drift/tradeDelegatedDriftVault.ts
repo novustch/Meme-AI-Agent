@@ -29,7 +29,7 @@ const tradeDelegatedDriftVaultAction: Action = {
         output: {
           status: "success",
           message: "Trade successful",
-          transactionId: "7nE9GvcwsqzYxmJLSrYmSB1V1YoJWVK1KWzAcWAzjXkN",
+          transactionId: "",
           amount: 100,
           symbol: "SOL",
           action: "buy",

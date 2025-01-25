@@ -30,7 +30,7 @@ const deployCollectionAction: Action = {
         output: {
           status: "success",
           message: "Collection deployed successfully",
-          collectionAddress: "7nE9GvcwsqzYxmJLSrYmSB1V1YoJWVK1KWzAcWAzjXkN",
+          collectionAddress: "",
           name: "My Collection",
         },
         explanation: "Deploy an NFT collection with 5% royalty",

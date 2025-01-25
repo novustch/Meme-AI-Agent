@@ -21,7 +21,7 @@ const createMultisigAction: Action = {
     [
       {
         input: {
-          creator: "7nE9GvcwsqzYxmJLSrYmSB1V1YoJWVK1KWzAcWAzjXkN",
+          creator: "",
         },
         output: {
           status: "success",

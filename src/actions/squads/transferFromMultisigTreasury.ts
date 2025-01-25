@@ -19,14 +19,14 @@ const transferFromMultisigAction: Action = {
       {
         input: {
           amount: 1,
-          recipient: "7nE9GvcwsqzYxmJLSrYmSB1V1YoJWVK1KWzAcWAzjXkN",
+          recipient: "",
         },
         output: {
           status: "success",
           message: "Transaction added to 2-by-2 multisig account successfully",
           transaction: "4xKpN2...",
           amount: "1",
-          recipient: "7nE9GvcwsqzYxmJLSrYmSB1V1YoJWVK1KWzAcWAzjXkN",
+          recipient: "",
         },
         explanation: "Transfer 1 SOL from 2-of-2 multisig account on Solana",
       },

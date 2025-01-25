@@ -25,12 +25,12 @@ const mintNFTAction: Action = {
         output: {
           status: "success",
           message: "NFT minted successfully",
-          mintAddress: "7nE9GvcwsqzYxmJLSrYmSB1V1YoJWVK1KWzAcWAzjXkN",
+          mintAddress: "",
           metadata: {
             name: "My NFT",
             uri: "https://example.com/nft.json",
           },
-          recipient: "7nE9GvcwsqzYxmJLSrYmSB1V1YoJWVK1KWzAcWAzjXkN",
+          recipient: "",
         },
         explanation: "Mint an NFT to the default wallet",
       },

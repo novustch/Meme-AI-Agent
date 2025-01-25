@@ -25,7 +25,7 @@ const deployTokenAction: Action = {
           initialSupply: 1000000,
         },
         output: {
-          mint: "7nE9GvcwsqzYxmJLSrYmSB1V1YoJWVK1KWzAcWAzjXkN",
+          mint: "",
           status: "success",
           message: "Token deployed successfully",
         },
