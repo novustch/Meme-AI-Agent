@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: Solana Agent Kit
+title: JLB AI Agent
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
@@ -20,7 +20,7 @@ license: Apache-2.0
 version: 1.2.0
 preferred-citation:
   type: software
-  title: Solana Agent Kit
+  title: JLB AI Agent
   abstract: Connect any AI Agents to Solana Protocols
   version: 1.2.0
   date-released: '2024-12-21'
