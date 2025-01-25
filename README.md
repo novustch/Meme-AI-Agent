@@ -119,13 +119,6 @@ Anyone - whether an SF-based AI researcher or a crypto-native builder - can brin
   - Price feed integration for market analysis
   - Automated decision-making capabilities
 
-
-## 📦 Installation
-
-```bash
-npm install solana-ai-agents
-```
-
 ## Quick Start
 
 ```typescript
