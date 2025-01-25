@@ -3,7 +3,7 @@
 ![Banner](https://github.com/user-attachments/assets/a9599b15-44d2-48a9-ad8c-6bcff68970f6)
 
 
-# JLB AI Agents
+# JLB AI Agent
 
 Introducing the JLB AI Agent, an innovative solution built on the Solana blockchain that harnesses the power of artificial intelligence to revolutionize digital interactions. Designed to automate complex tasks and optimize decision-making, JLB empowers users with real-time analytics and efficient operations in the DeFi space. With its ability to learn and adapt, JLB aims to provide seamless integration and meaningful insights for both newcomers and experienced crypto enthusiasts. Experience the future of autonomous technology with JLB, where AI meets the dynamic landscape of blockchain.
 
@@ -260,7 +260,7 @@ Apache-2 License
 
 ## Funding
 
-If you wanna give back any tokens or donations to the OSS community -- The Public JLB AI Agents Treasury Address:
+If you wanna give back any tokens or donations to the OSS community -- The Public JLB AI Agent Treasury Address:
 
 ## Security
 
