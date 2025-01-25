@@ -25,10 +25,6 @@ First off, thank you for considering contributing to Solana Agent Kit! 🎉 Your
   - [Security](#security)
   - [License](#license)
 
-## Code of Conduct
-
-This project adheres to the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/). By participating, you are expected to uphold this code. Please report unacceptable behavior to [aryan@sendai.fun](mailto:aryan@sendai.fun).
-
 ## How Can I Contribute?
 
 ### Reporting Bugs
@@ -144,8 +140,6 @@ The documentation will be available in the `docs/` directory.
 ## Security
 
 This toolkit handles sensitive information such as private keys and API keys. **Ensure you never commit `.env` files or any sensitive data**. Review the `.gitignore` to confirm that sensitive files are excluded.
-
-For security vulnerabilities, please follow the [responsible disclosure](mailto:aryan@sendai.fun) process.
 
 ## License
 
