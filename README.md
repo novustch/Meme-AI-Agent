@@ -243,10 +243,6 @@ Refer to [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines on how to co
   <img src="https://contrib.rocks/image?repo=earthzetaorg/solana-ai-agents" />
 </a>
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=earthzetaorg/solana-ai-agents&type=Date)](https://star-history.com/#earthzetaorg/solana-ai-agents&Date)
-
 ## License
 
 Apache-2 License
