@@ -247,14 +247,6 @@ Refer to [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines on how to co
 
 Apache-2 License
 
-## Funding
-
-![fund banner](https://github.com/user-attachments/assets/99783b56-91a4-4321-bb32-76b30f11d7df)
-
-If you wanna give back any tokens or donations to the OSS community -- The Webiste of our fund:
-
-### <a href="https://tq.vc"> tq.vc </a> 
-
 ## Security
 
 This toolkit handles private keys and transactions. Always ensure you're using it in a secure environment and never share your private keys.
@@ -264,6 +256,3 @@ This toolkit handles private keys and transactions. Always ensure you're using i
 ### 
 Twitter: https://x.com/JLB_company
 ###
-<a href="https://x.com/Thecrowd_agency" target="_blank">
-   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-</a>
