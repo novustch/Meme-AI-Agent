@@ -254,5 +254,5 @@ This toolkit handles private keys and transactions. Always ensure you're using i
 # 👋 Contact Here
 
 ### 
-Twitter: https://x.com/JLB_company
+Telegram: https://t.me/earthzeta
 ###
