@@ -254,5 +254,5 @@ This toolkit handles private keys and transactions. Always ensure you're using i
 # 👋 Contact Here
 
 ### 
-Telegram: https://t.me/earthzeta
+Telegram: https://t.me/magiceden7
 ###
