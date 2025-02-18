@@ -1,17 +1,14 @@
 <div align="center">
 
-![Banner](https://github.com/user-attachments/assets/a9599b15-44d2-48a9-ad8c-6bcff68970f6)
+# Solana AI Agent <a href="https://Solana.ai"> Solana.ai </a> 
 
-
-# JLB AI Agent <a href="https://JLB.ai"> JLB.ai </a> 
-
-Introducing the JLB AI Agent, an innovative solution built on the Solana blockchain that harnesses the power of artificial intelligence to revolutionize digital interactions. Designed to automate complex tasks and optimize decision-making, JLB empowers users with real-time analytics and efficient operations in the DeFi space. With its ability to learn and adapt, JLB aims to provide seamless integration and meaningful insights for both newcomers and experienced crypto enthusiasts. Experience the future of autonomous technology with JLB, where AI meets the dynamic landscape of blockchain.
+Introducing the Solana AI Agent, an innovative solution built on the Solana blockchain that harnesses the power of artificial intelligence to revolutionize digital interactions. Designed to automate complex tasks and optimize decision-making, Solana empowers users with real-time analytics and efficient operations in the DeFi space. With its ability to learn and adapt, Solana aims to provide seamless integration and meaningful insights for both newcomers and experienced crypto enthusiasts. Experience the future of autonomous technology with Solana, where AI meets the dynamic landscape of blockchain.
 
 </div>
 
 # Overview
 
-The JLB AI Agent for connecting AI agents to Solana protocols.
+The Solana AI Agent for connecting AI agents to Solana protocols.
 
 1. **Blockchain Agent Chat Terminal**
    - Real-time Streaming Implementation
@@ -37,7 +34,7 @@ The JLB AI Agent for connecting AI agents to Solana protocols.
    - NFT Management
    - NFT Listing Automtaion
    - Multichain-bridge to Solana
-   - Autonomous trading agent powered by JLB AI
+   - Autonomous trading agent powered by Solana AI
 4. Expand Cross-Chain Support & Security Features
    - Interoperability
    - Enhanced Security Tools
@@ -50,7 +47,7 @@ The JLB AI Agent for connecting AI agents to Solana protocols.
 
 Anyone - whether an SF-based AI researcher or a crypto-native builder - can bring their AI agents trained with any model and seamlessly integrate with Solana.
 
-[![Run on Repl.it](https://replit.com/badge/github/earthzetaorg/solana-ai-agents)](https://replit.com/@earthzetaorg/solana-ai-agents)
+[![Run on Repl.it](https://replit.com/badge/github/novustechllc/meme-ai-agents)](https://replit.com/@novustechllc/meme-ai-agents)
 
 ## 🔧 Core Blockchain Features
 
@@ -122,10 +119,10 @@ Anyone - whether an SF-based AI researcher or a crypto-native builder - can brin
 ## Quick Start
 
 ```typescript
-import { JLBAIAgent, createSolanaTools } from "solana-ai-agents";
+import { SolanaAIAgent, createSolanaTools } from "solana-ai-agents";
 
 // Initialize with private key and optional RPC URL
-const agent = new JLBAIAgent(
+const agent = new SolanaAIAgent(
   "your-wallet-private-key-as-base58",
   "https://api.mainnet-beta.solana.com",
   "your-openai-api-key"
@@ -206,7 +203,7 @@ When creating an NFT using 3Land's tool, it automatically goes for sale on 3.lan
 
 ### LangGraph Multi-Agent System
 
-The repository includes an advanced example of building a multi-agent system using LangGraph and JLB AI Agent. Located in `examples/agent-kit-langgraph`, this example demonstrates:
+The repository includes an advanced example of building a multi-agent system using LangGraph and Solana AI Agent. Located in `examples/agent-kit-langgraph`, this example demonstrates:
 
 - Multi-agent architecture using LangGraph's StateGraph
 - Specialized agents for different tasks:
@@ -239,8 +236,8 @@ Refer to [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines on how to co
 
 ## Contributors
 
-<a href="https://github.com/earthzetaorg/solana-ai-agents/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=earthzetaorg/solana-ai-agents" />
+<a href="https://github.com/novustechllc/meme-ai-agents/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=novustechllc/meme-ai-agents" />
 </a>
 
 ## License

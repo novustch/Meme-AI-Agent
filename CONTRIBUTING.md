@@ -1,10 +1,10 @@
-# Contributing to JLB AI Agent
+# Contributing to Solana AI Agent
 
-First off, thank you for considering contributing to JLB AI Agent! 🎉 Your contributions are **greatly appreciated**.
+First off, thank you for considering contributing to Solana AI Agent! 🎉 Your contributions are **greatly appreciated**.
 
 ## Table of Contents
 
-- [Contributing to JLB AI Agent](#contributing-to-solana-ai-agents)
+- [Contributing to Solana AI Agent](#contributing-to-solana-ai-agents)
   - [Table of Contents](#table-of-contents)
   - [Code of Conduct](#code-of-conduct)
   - [How Can I Contribute?](#how-can-i-contribute)
@@ -27,7 +27,7 @@ First off, thank you for considering contributing to JLB AI Agent! 🎉 Your con
 
 ## Code of Conduct
 
-This project adheres to the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/). By participating, you are expected to uphold this code. Please report unacceptable behavior to [TQ Ventures](https://x.com/JLB_company).
+This project adheres to the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/). By participating, you are expected to uphold this code. Please report unacceptable behavior to [TQ Ventures](https://x.com/Solana_company).
 
 ## How Can I Contribute?
 
@@ -35,15 +35,15 @@ This project adheres to the [Contributor Covenant Code of Conduct](https://www.c
 
 **Great**! Opening an issue is the best way to help us improve. Here's how you can report a bug:
 
-1. **Search** the [existing issues](https://github.com/earthzetaorg/solana-ai-agents/issues) to make sure it hasn't been reported.
+1. **Search** the [existing issues](https://github.com/novustechllc/meme-ai-agents/issues) to make sure it hasn't been reported.
 2. **Open a new issue** and fill out the template with as much information as possible.
 3. **Provide reproduction steps** if applicable.
 
 ### Suggesting Enhancements
 
-We welcome your ideas for improving JLB AI Agent! To suggest an enhancement:
+We welcome your ideas for improving Solana AI Agent! To suggest an enhancement:
 
-1. **Search** the [existing issues](https://github.com/earthzetaorg/solana-ai-agents/issues) to see if it's already been suggested.
+1. **Search** the [existing issues](https://github.com/novustechllc/meme-ai-agents/issues) to see if it's already been suggested.
 2. **Open a new issue** and describe your idea in detail.
 
 ### Your First Code Contribution
@@ -54,7 +54,7 @@ Unsure where to start? You can help out by:
 - Improving documentation.
 - Adding tests.
 
-Check out the [Good First Issues](https://github.com/earthzetaorg/solana-ai-agents/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) to get started!
+Check out the [Good First Issues](https://github.com/novustechllc/meme-ai-agents/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) to get started!
 
 ### Pull Requests
 
@@ -145,7 +145,7 @@ The documentation will be available in the `docs/` directory.
 
 This toolkit handles sensitive information such as private keys and API keys. **Ensure you never commit `.env` files or any sensitive data**. Review the `.gitignore` to confirm that sensitive files are excluded.
 
-For security vulnerabilities, please follow the [TQ Ventures](https://x.com/JLB_company) process.
+For security vulnerabilities, please follow the [TQ Ventures](https://x.com/Solana_company) process.
 
 ## License
 

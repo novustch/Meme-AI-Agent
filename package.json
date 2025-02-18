@@ -19,8 +19,8 @@
     "node": ">=22.0.0",
     "pnpm": ">=8.0.0"
   },
-  "keywords": ["solana", "agent", "ai", "jlb ai agent", "sendai"],
-  "author": "earthzetaorg",
+  "keywords": ["solana", "agent", "ai", "Solana ai agent", "sendai"],
+  "author": "novustechllc",
   "license": "Apache-2.0",
   "dependencies": {
     "@3land/listings-sdk": "^0.0.6",

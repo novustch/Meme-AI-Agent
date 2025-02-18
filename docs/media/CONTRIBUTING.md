@@ -31,7 +31,7 @@ First off, thank you for considering contributing to Solana Agent Kit! 🎉 Your
 
 **Great**! Opening an issue is the best way to help us improve. Here's how you can report a bug:
 
-1. **Search** the [existing issues](https://github.com/earthzetaorg/solana-ai-agents/issues) to make sure it hasn't been reported.
+1. **Search** the [existing issues](https://github.com/novustechllc/meme-ai-agents/issues) to make sure it hasn't been reported.
 2. **Open a new issue** and fill out the template with as much information as possible.
 3. **Provide reproduction steps** if applicable.
 
@@ -39,7 +39,7 @@ First off, thank you for considering contributing to Solana Agent Kit! 🎉 Your
 
 We welcome your ideas for improving Solana Agent Kit! To suggest an enhancement:
 
-1. **Search** the [existing issues](https://github.com/earthzetaorg/solana-ai-agents/issues) to see if it's already been suggested.
+1. **Search** the [existing issues](https://github.com/novustechllc/meme-ai-agents/issues) to see if it's already been suggested.
 2. **Open a new issue** and describe your idea in detail.
 
 ### Your First Code Contribution
@@ -50,7 +50,7 @@ Unsure where to start? You can help out by:
 - Improving documentation.
 - Adding tests.
 
-Check out the [Good First Issues](https://github.com/earthzetaorg/solana-ai-agents/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) to get started!
+Check out the [Good First Issues](https://github.com/novustechllc/meme-ai-agents/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) to get started!
 
 ### Pull Requests
 

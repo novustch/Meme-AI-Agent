@@ -1,13 +1,13 @@
 cff-version: 1.2.0
-title: JLB AI Agent
+title: Solana AI Agent
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
 type: software
 authors:
   - name: SendAI
-repository-code: 'https://github.com/earthzetaorg/solana-ai-agents'
-url: 'https://github.com/earthzetaorg/solana-ai-agents'
+repository-code: 'https://github.com/novustechllc/meme-ai-agents'
+url: 'https://github.com/novustechllc/meme-ai-agents'
 abstract: >-
   Connect any AI Agents to Solana Protocols
 keywords:
@@ -20,12 +20,12 @@ license: Apache-2.0
 version: 1.2.0
 preferred-citation:
   type: software
-  title: JLB AI Agent
+  title: Solana AI Agent
   abstract: Connect any AI Agents to Solana Protocols
   version: 1.2.0
   date-released: '2024-12-21'
   license: Apache-2.0
-  url: 'https://github.com/earthzetaorg/solana-ai-agents'
-  repository-code: 'https://github.com/earthzetaorg/solana-ai-agents'
+  url: 'https://github.com/novustechllc/meme-ai-agents'
+  repository-code: 'https://github.com/novustechllc/meme-ai-agents'
   authors:
   - name: SendAI
