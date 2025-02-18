@@ -250,6 +250,5 @@ This toolkit handles private keys and transactions. Always ensure you're using i
 
 # 👋 Contact Here
 
-### 
-Telegram: https://t.me/magiceden7
-###
+### Telegram: https://t.me/novustechllc
+### Whatsapp: https://wa.me/14105015750
