@@ -47,7 +47,7 @@ The Solana AI Agent for connecting AI agents to Solana protocols.
 
 Anyone - whether an SF-based AI researcher or a crypto-native builder - can bring their AI agents trained with any model and seamlessly integrate with Solana.
 
-[![Run on Repl.it](https://replit.com/badge/github/novustechllc/meme-ai-agents)](https://replit.com/@novustechllc/meme-ai-agents)
+[![Run on Repl.it](https://replit.com/badge/github/novustch/meme-ai-agents)](https://replit.com/@novustch/meme-ai-agents)
 
 ## 🔧 Core Blockchain Features
 
@@ -236,8 +236,8 @@ Refer to [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines on how to co
 
 ## Contributors
 
-<a href="https://github.com/novustechllc/meme-ai-agents/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=novustechllc/meme-ai-agents" />
+<a href="https://github.com/novustch/meme-ai-agents/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=novustch/meme-ai-agents" />
 </a>
 
 ## License
@@ -250,5 +250,5 @@ This toolkit handles private keys and transactions. Always ensure you're using i
 
 # 👋 Contact Here
 
-### Telegram: https://t.me/novustechllc
+### Telegram: https://t.me/novustch
 ### Whatsapp: https://wa.me/14105015750
