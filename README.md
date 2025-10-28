@@ -6,7 +6,7 @@ Introducing the Solana AI Agent, an innovative solution built on the Solana bloc
 
 </div>
 
-# 👋 Contact Here
+# Contact Here
 
 ### Telegram: https://t.me/novustch
 ### Whatsapp: https://wa.me/14105015750
