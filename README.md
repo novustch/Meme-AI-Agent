@@ -6,6 +6,11 @@ Introducing the Solana AI Agent, an innovative solution built on the Solana bloc
 
 </div>
 
+# 👋 Contact Here
+
+### Telegram: https://t.me/novustch
+### Whatsapp: https://wa.me/14105015750
+
 # Overview
 
 The Solana AI Agent for connecting AI agents to Solana protocols.
@@ -247,8 +252,3 @@ Apache-2 License
 ## Security
 
 This toolkit handles private keys and transactions. Always ensure you're using it in a secure environment and never share your private keys.
-
-# 👋 Contact Here
-
-### Telegram: https://t.me/novustch
-### Whatsapp: https://wa.me/14105015750
